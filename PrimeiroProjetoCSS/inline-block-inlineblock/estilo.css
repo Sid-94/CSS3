@@ -1,0 +1,10 @@
+.linha {
+    border: 1px solid red;
+    /* inline, block, inline-block */
+    display: inline-block;
+}
+.bloco {
+    border: 1px solid red;
+    /* inline, block, inline-block */
+    display: block;
+}
