@@ -1,0 +1,26 @@
+/* Modelo de Caixa */
+h2 {
+    margin: 0px;
+}
+#noticia {
+    border: 1px solid black;
+    width: 211px;
+}
+.titulo {
+    border: 1px solid red;
+    padding: 10px;
+    margin: 20px;
+    width: 150px;
+}
+.conteudo {
+    border: 1px solid grey;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 150px;
+}
